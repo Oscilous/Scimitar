@@ -1,0 +1,27 @@
+﻿Part name;Material;Quantity;Notes
+Wing L 1;PLA+;1;
+Wing R 1;PLA+;1;
+Wing L 2;PLA+;1;
+Wing R 2;PLA+;1;
+Wing L 3;LW-PLA;1;
+Wing R 3;LW-PLA;1;
+Wing L aileron;PLA+;1;
+Wing R aileron;PLA+;1;
+Fuselage 1;PLA+;1;
+Fuselage 2;PLA+;1;
+Fuselage 3;PLA+;1;
+Fuselage 4;PLA+;1;
+Fuselage 5;PLA+;1;
+Batterie plate;PLA+;1;
+Canopy;PLA+;1;
+Canopy handle;PLA+;1;
+Motor mount;PLA+;1;
+Wing lock L+R;PLA+;1;
+Hinges (TPU);TPU;6;
+Main Wing Spar;Carbon rod 8x500mm;1;
+Front wing Spar;Carbon rod 6x125mm;2;
+Glue;Cyanoacrylate;As needed;
+M3 nut;Stainless steel;7;DIN 934
+M3 bolt L15;Stainless steel;4;DIN 934
+M3 bolt L30;Stainless steel;1;DIN 934
+M3 bolt L10;Stainless steel;2;DIN 935

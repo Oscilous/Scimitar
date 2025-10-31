@@ -1,0 +1,28 @@
+# File: CITATION.cff
+cff-version: 1.2.0
+message: "If you use Scimitar V2, please cite this repository."
+title: "Scimitar V2 (open-source airframe)"
+abstract: >
+  Scimitar V2 is a mini-sized FPV airframe released as open hardware.
+  This repository provides the preferred-for-modification design files (native CAD),
+  STEP interchanges, STL/3MF print exports, a minimal BoM, and build/assembly notes.
+  Hardware is licensed under CERN-OHL-P v2.0; documentation under CC BY 4.0.
+authors:
+  - name: "Olivier C."
+repository-code: "https://github.com/Oscilous/scimitar"
+license: "CERN-OHL-P-2.0"
+keywords:
+  - open hardware
+  - UAV
+  - FPV
+  - airframe
+  - 3D printing
+version: "v2.0.0"
+date-released: "2025-10-31"
+preferred-citation:
+  type: generic
+  title: "Scimitar V2 (open-source airframe)"
+  authors:
+    - name: "Olivier C."
+  year: 2025
+  url: "https://github.com/Oscilous/scimitar"
