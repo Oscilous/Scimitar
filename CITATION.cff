@@ -19,6 +19,7 @@ keywords:
   - 3D printing
 version: "v2.0.0"
 date-released: "2025-10-31"
+doi: "https://doi.org/10.5281/zenodo.18325530"
 preferred-citation:
   type: generic
   title: "Scimitar V2 (open-source airframe)"
