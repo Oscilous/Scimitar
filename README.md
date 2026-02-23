@@ -1,6 +1,7 @@
 # Scimitar V2 (open-source airframe)
 
 This repository hosts the design files and docs for Scimitar V2.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18325531.svg)](https://doi.org/10.5281/zenodo.18325531)
 
 ## Tech specs
