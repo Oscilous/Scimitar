@@ -1,6 +1,6 @@
 # Scimitar V2 (open-source airframe)
 
-This repo hosts the design files and docs for Scimitar V2.
+This repository hosts the design files and docs for Scimitar V2.
 
 ## Tech specs
 
@@ -31,7 +31,11 @@ This repo hosts the design files and docs for Scimitar V2.
 > Note: The RCGroups thread is an external source. Statements there (e.g., that the planes are “free to download”) reflect the author’s posts at the time. This repository re-publishes the Scimitar V2 hardware under proper licensing.
 
 ## Attribution
-Design by **Olivier C.**  
+Design by **Olivier C.**
+- **Youtube:** https://www.youtube.com/olivierc600
+- **RCGroups:** https://www.rcgroups.com/forums/member.php?u=50692 
+- **Email:** olivierc600@gmail.com 
+
 [![Support Olivier C.](https://cdn.buymeacoffee.com/buttons/default-yellow.png)](https://buymeacoffee.com/olivierc600)
 
 Repository by **Artis Fils (SDU)**.
